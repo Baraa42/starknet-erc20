@@ -10,7 +10,7 @@ namespace IExerciseSolution:
     func tokens_in_custody(account : felt) -> (amount : Uint256):
     end
 
-    func get_tokens_from_contract() -> (amount : Uint256):
+    func get_tokens() -> (amount : Uint256):
     end
 
     func withdraw_all_tokens() -> (amount : Uint256):
